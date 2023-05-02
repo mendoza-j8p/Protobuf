@@ -1,5 +1,5 @@
-module protobuf
+module github.com/mendoza-j8p/Protobuf
 
 go 1.19
 
-require google.golang.org/protobuf v1.30.0 // indirect
+require google.golang.org/protobuf v1.30.0
